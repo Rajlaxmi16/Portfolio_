@@ -1,0 +1,27 @@
+education{
+    background-color:  rgb(229, 201, 192);
+    
+}
+#education h1{
+    text-align: center;
+    font-size: xx-large;
+    color: rgba(36, 17, 17, 0.747) ;
+    padding-top: 100px;
+    margin-top: 50px;
+}
+#education h2{
+    text-align: center;
+    font-size: xx-large;
+    color: rgba(36, 17, 17, 0.747) ;
+}
+body{
+    font-size: xx-large;
+    text-align: left;
+}
+
+#education .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    }

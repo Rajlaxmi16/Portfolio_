@@ -1,0 +1,29 @@
+Article{
+    background-color:  rgb(229, 201, 192);
+    
+}
+
+#Article h1{
+    text-align: center;
+    font-size: xx-large;
+    color: rgba(36, 17, 17, 0.747) ;
+    padding: 50px;
+    margin-top: 50px;
+}
+#Article h2{
+    text-align: center;
+    font-size: xx-large;
+    color: rgba(36, 17, 17, 0.747) ;
+}
+#Article .container{
+    padding: 30px;
+    
+
+}
+#Article .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
